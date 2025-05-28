@@ -1,0 +1,19 @@
+body {
+  background-color: #f4f9fc;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+.weather-card {
+  background-color: #e0f7fa;
+  border-left: 6px solid #4fc3f7;
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+.error {
+  color: red;
+  margin-top: 1rem;
+}
